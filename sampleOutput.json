@@ -1,0 +1,79 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": { "id": "nrk", "name": "NRK" },
+      "author": "Jonas August Bernstein, Jørgen Terland Gundersen",
+      "title": "Verstappen til NRK: Meiner norske Ole (21) har «uavgrensa potensial»",
+      "description": "I vinter fekk e-sportsutøvar Ole Steinbråten plutseleg ei svært uventa melding. Max Verstappen er full av beundring for det norske stortalentet.",
+      "url": "https://www.nrk.no/sport/verstappen-til-nrk_-meiner-norske-ole-_21_-har-_uavgrensa-potensial_-1.16363380",
+      "urlToImage": "https://gfx.nrk.no/5eCZeCk4Jl7uk3DjLxGy_wmh6iNFdmfPIKuxUDuVyzhw.jpg",
+      "publishedAt": "2023-04-08T06:17:57Z",
+      "content": "Dette kan jo ikkje stemme, var den omgåande reaksjonen til 21-åringen frå Gol i Hallingdal.\r\nI februar tikka det nemleg inn ei melding frå e-sportslagettil Max Verstappen den regjerande verdsmeistere… [+4689 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "SEAN MURPHY and HANNAH SCHOENBAUM",
+      "title": "Biden sports plan angers transgender advocates, opponents",
+      "description": "A Biden administration proposal to forbid outright bans on transgender athletes sparked outrage from conservative leaders while also angering trans rights activists who note schools could still prevent some athletes from participating on teams that align with…",
+      "url": "https://apnews.com/28c6c78e9cd60a4c334de15bfdd624fe",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/ad5e76dce51f49f59e1658e16a2f5eec/3000.jpeg",
+      "publishedAt": "2023-04-07T18:45:45Z",
+      "content": "A Biden administration proposal to forbid outright bans on transgender athletes sparked outrage from conservative leaders while also angering trans rights activists who note schools could still preve… [+5769 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Wired",
+      "title": "Best Changing Robes (2023): Swim, Surf, Water Sports",
+      "description": "Whether you’re a water sports fanatic or a seasoned wild swimmer, these changing robes will make you feel like royalty.",
+      "url": "https://www.wired.com/gallery/best-changing-robes",
+      "urlToImage": "https://media.wired.com/photos/642f2679fe54492c97f76b05/191:100/w_2580,c_limit/voited-outdoor-change-robe-drycoat-black-Featured-Gear.jpg",
+      "publishedAt": "2023-04-07T13:00:00Z",
+      "content": "Changing robes are pretty self-explanatory. Theyre designed to make it easy to get changed in and out of your swimming or water sports gear while youre on the beach, camping, or in the parking lot. W… [+1343 chars]"
+    },
+    {
+      "source": { "id": "four-four-two", "name": "FourFourTwo" },
+      "author": "Ed McCambridge",
+      "title": "EA Sports FC reveals new branding after ending 30-year association with FIFA",
+      "description": "EA Sports FC will be the first in a new line of football simulation games after deal with FIFA ends in the summer",
+      "url": "https://www.fourfourtwo.com/news/ea-sports-fc-reveals-new-branding-after-ending-30-year-association-with-fifa",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gToQb4RQ5wQYhsnT769QNf-1200-80.jpg",
+      "publishedAt": "2023-04-07T08:34:19Z",
+      "content": "EA Sports have unveiled the new logo and branding that will adorn their flagship football game in the post-FIFA-collaboration era.\r\nLast May, EA announced that it would be ending its 30-year partners… [+1761 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": " Kings&#x27; Beam Under Attack ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/415140-light-the-beam--hero-ball",
+      "urlToImage": null,
+      "publishedAt": "2023-04-03T14:52:21.1065694Z",
+      "content": "LIGHT the BEAM | Hero Ball"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+      "urlToImage": null,
+      "publishedAt": "2022-12-01T18:52:49.4768049Z",
+      "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times https://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2022-08-30T16:37:43.8583104Z",
+      "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+    }
+  ]
+}
